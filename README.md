@@ -5,11 +5,11 @@ Performance's comparison of 15 different LLM on a Material science benchmark MaS
 ## Organisation
 
 ### GPT-4o_Analysis: 
-  Contain the code used for the analysis of the answer from the different model and the result of this analysis.
+Contain the code used for the analysis of the answer from the different model and the result of this analysis.
   
-    Ancien_prompt : Folder containing the data using the first approach for analysis.
+Ancien_prompt : Folder containing the data using the first approach for analysis.
     
-    New_prompt : Folder containing the second approach.
+New_prompt : Folder containing the second approach.
 
 ### Raw_Answer_from_Models:
   Contain the raw .txt files containing the answers for each model to the benchmark questions.
