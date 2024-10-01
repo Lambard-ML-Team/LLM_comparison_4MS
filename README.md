@@ -1,8 +1,8 @@
-# LLM_comparison_4MS
+# LLM_comparison_4MS: Exploring the Expertise of Large Language Models in Materials Science and Metallurgical Engineering
 
 Performance's comparison of 15 different LLM on a Material science benchmark MaScQA : https://github.com/M3RG-IITD/MaScQA
 
-# Organisation
+## Organisation
 
 ### GPT-4o_Analysis: 
   Contain the code used for the analysis of the answer from the different model and the result of this analysis.
